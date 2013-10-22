@@ -1,0 +1,12 @@
+{
+  "name": "angular-mac-promise",
+  "dependencies": {
+    "angular": "1.0.8",
+    "angular-mocks": "1.0.8"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
